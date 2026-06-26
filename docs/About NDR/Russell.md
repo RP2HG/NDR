@@ -2,11 +2,12 @@
 icon: lucide/users
 title: "About Russell"
 tags:
-  - "About Mr.EA"
-  - Authors
+  - "About Russell"
 ---
 
 ## Russell
+
+![Russell](../images/russell.jpg)
 
 Enterprise Architect based in Yorkshire, England
 
