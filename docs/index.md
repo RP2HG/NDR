@@ -1,23 +1,36 @@
 ---
 icon: lucide/rocket
-title: Welcome to Non-Deterministic Ramblings"
+title: Welcome
 tags:
   - "About NDR"
 ---
 
+## Welcome to Non-Deterministic Ramblings
 
-Weclome to this web iste, where I hope to be able to record some slivees of wisdom drawn from many years working in IT.  Along the way I have met with people and circumstances, many nice but occassionally some not  so pleasant, but from each hopefully I have learned something, and if I record it here I hope that you too may find something of value, if only for any humour.
+![](../images/russell2.gif){ align=left }
 
-I have divided this site into three borad sections
+Weclome to this web site, where I hope to be able to record some slivees of wisdom drawn from many years working in IT.  Along the way I have met with people and circumstances, many nice but occassionally some not  so pleasant, but from each hopefully I have learned something, and if I record it here I hope that you too may find something of value, if only for any humour.
+
+
+### "Non-Deterministic"
+
+A long, long timee ago I studied Computer Science, and while I wasn't very good at the wider mathematics courses, I felt a keen affinity with [Discrete Mathemmatics](https://en.wikipedia.org/wiki/Discrete_mathematics). Part of the discrete maths course concerned itself with [Non-Deterministic Finite Automata](https://en.wikipedia.org/wiki/Finite-state_machine), or *NDFA*. By all means follow the lionks for more information, but in those rleatively early days, we studied what is now [Automata Theory](https://en.wikipedia.org/wiki/Automata_theory) as a precusor to understading syntax analysis.
+
+For many years, I joked that for all the time we spant studying *NDFA* I never had one cross my desk, and I think the probable cause which really defines a lot of my reflections in this blog, are that at the time I studfied, we did not have the resources to actually build the range of tools we have now that do use state graphs within them. 
+
+More recently I have studied Systems Thinking as a psot-graduatem abd as part of systems modelling we very much get into [Determinism](https://en.wikipedia.org/wiki/Determinism). This is when I think of *NDFA* and smile to myself, as an *NDFA* as a state machine couldn not determine an absolutae state given the input. And so it is with my thinking, in producing this blog my ideas seem to go off in myriad directions, rearely taking teh same path twice from any given starting point.
+
+So please excuse the randomness of the pasts, hopefully they do follow in some sort of logical progression
+
+### "Ramblings"
+
+Roughly, I have tried to divide the posts on this into under three broad sections
 
 
 - **Reflecting** - We came, we saw, we experienced, and we would like to help you not to fall into the same traps as maybe we did
 - **Thinking** - in an area dominated by formal certifications and methods, but latterly a paucity of research finding, we develop heuristics that we think may help explain some of the things we see happening in real-world situations
 - **Doing** - some words about how I have gone about doing some of the IT things I do
 
-
-Given our feelings on the necessity of what Enterprise Architecture should be doing to support organisations, and thus how we develop the goodness that Enterprise Architecture can bring. 
-
-We hope you enjoy reading our thoughts, largely garnered from our conversations, that you forgive our maybe idiosyncratic styles of presentation, and that if you take away any thoughts that you find helpful then our work here has been of value.
+I hope that there is something here that will amuse, maybe promote thoughts of your own, and if it does help in any way then my work here is done.
 
 

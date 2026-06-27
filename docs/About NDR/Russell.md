@@ -1,6 +1,6 @@
 ---
 icon: lucide/users
-title: "About Russell"
+title: "Who is Russell"
 tags:
   - "About Russell"
 ---
@@ -9,8 +9,10 @@ tags:
 
 ![](../images/russell.jpg){ align=left }
 
-Enterprise Architect based in Yorkshire, England
+Despite attempts using AI to make me look like some sort of secret agent, my career has spoanned well over 40 years. Starting at a time when it was called *Cpmputing*, I have worked in *Inofrmation Technology aka "IT"*, battled with the *Nexus of Forces*, and emrged blinking into the light of *Digitalisation*. EVen now as I write this during summer 2026, the emergence of *AI* is changing things once again.
 
-Russell has spent over 45 years in the computing and technology working in Supply-Chain, Telecoms, and more recently in public sector across Agriculture and Policing. Currently Russell is engaged as an Enterprise Architect working on  applied science delivery  in a large UK Government agency.
+Over that time, I started as a progranmnmer, then moved to Product Management, before spending the last 25 years as variously a *Solution Architect*, an *Enterprise Architect*, and latterly focussing on *Business Architecture*
 
-Academically, Russell started as a Computer Scientist, and it has been through developing a career alongside the seismic change brought about by microprocessors. These changes have influenced  much of the insight that Russell uses as an Enterprise Architect having experienced the development of the role and approaches as business and organisationla needs have changed.
+Academnically I have a BSc in Computer Science, an MBA, and an MSC in Systems Thinking in Practice. 
+
+Hopefully this site contains aspects drawn from a wide variety of experiences. At the top of this site you'll find liinks to ways to contact me.
