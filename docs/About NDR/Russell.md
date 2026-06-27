@@ -7,7 +7,7 @@ tags:
 
 ## Russell
 
-![Russell](../images/russell.jpg)
+![](../images/russell.jpg){ align=left }
 
 Enterprise Architect based in Yorkshire, England
 
