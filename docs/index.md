@@ -7,18 +7,18 @@ tags:
 
 ## Welcome to Non-Deterministic Ramblings
 
-![](../images/russell2.gif){ align=left }
+![](images/russell2.gif){ align=left }
 
-Weclome to this web site, where I hope to be able to record some slivees of wisdom drawn from many years working in IT.  Along the way I have met with people and circumstances, many nice but occassionally some not  so pleasant, but from each hopefully I have learned something, and if I record it here I hope that you too may find something of value, if only for any humour.
+Welcome to this web site, where I hope to be able to record some slivers of wisdom drawn from many years working in IT.  Along the way I have met with people and circumstances, many nice but occasionally some not  so pleasant, but from each hopefully I have learned something, and if I record it here I hope that you too may find something of value, if only for any humour.
 
 
 ### "Non-Deterministic"
 
-A long, long timee ago I studied Computer Science, and while I wasn't very good at the wider mathematics courses, I felt a keen affinity with [Discrete Mathemmatics](https://en.wikipedia.org/wiki/Discrete_mathematics). Part of the discrete maths course concerned itself with [Non-Deterministic Finite Automata](https://en.wikipedia.org/wiki/Finite-state_machine), or *NDFA*. By all means follow the lionks for more information, but in those rleatively early days, we studied what is now [Automata Theory](https://en.wikipedia.org/wiki/Automata_theory) as a precusor to understading syntax analysis.
+A long, long time ago I studied Computer Science, and while I wasn't very good at the wider mathematics courses, I felt a keen affinity with [Discrete Mathemmatics](https://en.wikipedia.org/wiki/Discrete_mathematics). Part of the discrete maths course concerned itself with [Non-Deterministic Finite Automata](https://en.wikipedia.org/wiki/Finite-state_machine), or *NDFA*. By all means follow the links for more information, but in those relatively early days, we studied what is now [Automata Theory](https://en.wikipedia.org/wiki/Automata_theory) as a precursor to understanding syntax analysis.
 
-For many years, I joked that for all the time we spant studying *NDFA* I never had one cross my desk, and I think the probable cause which really defines a lot of my reflections in this blog, are that at the time I studfied, we did not have the resources to actually build the range of tools we have now that do use state graphs within them. 
+For many years, I joked that for all the time we spent studying *NDFA* I never had one cross my desk, and I think the probable cause which really defines a lot of my reflections in this blog, are that at the time I studied, we did not have the resources to actually build the range of tools we have now that do use state graphs within them. 
 
-More recently I have studied Systems Thinking as a psot-graduatem abd as part of systems modelling we very much get into [Determinism](https://en.wikipedia.org/wiki/Determinism). This is when I think of *NDFA* and smile to myself, as an *NDFA* as a state machine couldn not determine an absolutae state given the input. And so it is with my thinking, in producing this blog my ideas seem to go off in myriad directions, rearely taking teh same path twice from any given starting point.
+More recently I have studied Systems Thinking as a post-graduate abd as part of systems modelling we very much get into [Determinism](https://en.wikipedia.org/wiki/Determinism). This is when I think of *NDFA* and smile to myself, as an *NDFA* as a state machine could not determine an absolutes state given the input. And so it is with my thinking, in producing this blog my ideas seem to go off in myriad directions, rarely taking teh same path twice from any given starting point.
 
 So please excuse the randomness of the pasts, hopefully they do follow in some sort of logical progression
 
