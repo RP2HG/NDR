@@ -1,13 +1,12 @@
 ---
-icon: lucide/shield-cog
-title: "Fads"
+icon: lucide/rocket
+title: "Surviving the inevitable computing fads"
+tags:
+  - "Industry Hype"
+  - "Hype Cycles"
 ---
 
 
-!!! warning "Much grumpiness in this post"
-
-    This post is about a continual gripe of mine, namely the cycle by which the IT industry goes into some form of ill-thought hype over a seemingly big break through which generates a lot of excitement which abates after about 2 years by which time the damage has been done. Originally posted on my Wordpress site, I have taken the opportunity to update this
-    
 
 ## Nothing Changes
 
