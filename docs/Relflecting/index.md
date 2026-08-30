@@ -5,7 +5,7 @@ title: "Welcome to Reflecting"
 
 ![Reflectiog](../images/refelction.jpg){ align=left }
 
-This section  of the site contains a series of vignettes based upon my experiences drawn from a good many years working in and around computing.
+This section of the site contains a series of vignettes based upon my experiences drawn from a good many years working in and around computing.
 
 My hope is that through recording these, maybe others who stumble across these missives may understand a little context and how the various stories herein made me feel both  at the time and in retrospect. My aim is to record any lessons that I learned along the way, but whether I succeed is going to be another matter.   
 

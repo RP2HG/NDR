@@ -16,7 +16,7 @@ These days the flavour is Linux, and MacOS too, but that software architecture p
 
 ## Agentic AI
 
-I've grumbled [elsewhere](../Relflecting/AIgrmbles.md) about AI in general, but the promise of Ai agents as small units of functionality being pulled together to create exponentially more powerful solutions to our various needs is, on face value, a way to greater usability
+I've grumbled [here](../Relflecting/AIgrmbles.md) about AI in general, but the promise of Ai agents as small units of functionality being pulled together to create exponentially more powerful solutions to our various needs is, on face value, a way to greater usability
 
 [^1]: 
 Imagine the excitement when, in 1981, we moved to a 32-bit system running an early BSD Unix and bringing with it the "vi" visual editor

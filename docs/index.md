@@ -33,4 +33,6 @@ Roughly, I have tried to divide the posts on this into under three broad section
 
 I hope that there is something here that will amuse, maybe promote thoughts of your own, and if it does help in any way then my work here is done.
 
+!!! warning "Expressed Views"
 
+    **Please note that all of the views I express on this site are all my own and do not reflect the views of any of my employers past or present**

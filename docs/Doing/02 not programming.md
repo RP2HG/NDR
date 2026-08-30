@@ -1,9 +1,9 @@
 ---
-icon: lucide/pen-line
-title: "How Not to Build a Web Site"
+icon: lucide/square-function
+title: "NOT programming, but programming"
 ---
 
-## False Starts
+## TBC
 
 ### WordPress
 

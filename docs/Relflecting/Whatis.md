@@ -17,13 +17,15 @@ I've seen several attempts to define the types of architecture practice found in
 
 ### So who creates these "forma" definitions, and why?
 
-I could go back into a history of IT architecture, but I'll reserve that for another post. I could also give a cynical answer that the formal definitions tend to be made by folks who make money by defining them, but that isn't strictly true
+I could go back into a history of IT architecture, but maybe I'll reserve that for another post. I could also give a cynical answer that the formal definitions tend to be made by folks who make money by defining them, but that isn't strictly true
 
 It is fair to point to the certification bodies, who make their money from training, examining, and certifying people in architecture disciplines. I can see a form of value for people being able to show that they can learn material and reproduce it in an examination of some sort. To be able to test, you need to define what is to be tested. Different organisations who can make money from this service need to differentiate themselves, hence one source of variation.
 
 But that isn't the only source of these differences. My own experiences working in public sector have been both helped, and hindered, by teh UK Civil Service defining career profiles for different types of architect working in [GDAD](https://ddat-capability-framework.service.gov.uk/). As a former manager trying to recruit, this framework helped to provide consistency and a career progression framework. However, as a contributor to developing a framework (in this case defining Business Architect roles), the approach was remarkably insular without considering the delivery a architecture services and practice holistically.
 
+### So where did that Architect go to?
 
+Whilst there is a overwhelming need for architecture skills, the challenge lies in the diversity of the organisations that we all work in.
 
 
 ## Where did that Architect come from?
