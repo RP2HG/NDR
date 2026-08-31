@@ -3,25 +3,24 @@ icon: lucide/hammer
 title: "Thoughts on Doing"
 ---
 
-![Doing](../images/doing.png){align=right}
+![Doing](../images/doing.png){align=left}
 
 ## What is it I do when I do what I do?
 
-In this section, I aim to provide some pieces where I explain my rationale, and any learnings, from doing some of the things I have done.
+It is difficult to separate reflections from explaining what I have done. As time passes, the buulding library of experiences increasingly informs what I do and how I do it. As such, this section does indeed include some reflecting where, I hope, it helps to explain elements of my practice. I've also tried to stay away from the routine things that can be found elsewhere in textbooks and across the internet.
 
-Some sections that may be of interest are:
 
 ### Recent posts in the section include:
 
 <div class="grid cards" markdown>
 
--   :lucide-square-code:{ .lg .middle } __Arriving at this web site__
+-   :lucide-brick-wall:{ .lg .middle } __Bytes, Borads, Boxes__
 
     ---
 
-    TAfter a few attempts at starting this site, the fact you are reading this tells me you ahve arrived at this attempt of creating a web site
+    A routine university lecture in 1982 unwittingly sets a philosophy 
 
-    [:octicons-arrow-right-24: Wordpress Days](Web Site Building/index.md))
+    [:octicons-arrow-right-24: Bytes, Boards, or Boxes](01bytes.md))
 
 -   :lucide-brain:{ .lg .middle } __IS AI really anything new?__
 
