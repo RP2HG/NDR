@@ -13,7 +13,7 @@ Despite attempts using AI to make the photo of me look like some sort of secret 
 
 I am certainly old enough now that whenever some bright young thing tries to show me something amazing, I can say "Oh we've been able to do that for years ... Nothing New".
 
-Over that time, I started as a programmer, then moved to Product Management, before spending the last 25 years as variously a *Solution Architect*, an *Enterprise Architect*, and latterly focussing on *Business Architecture*. The piece about [Purpose of an IT Architect](../Relflecting/Whatis.md) is based upon a myriad of conversations arising from this time.
+Over that time, I started as a programmer, then moved to Product Management, before spending the last 25 years as variously a *Solution Architect*, an *Enterprise Architect*, and latterly focussing on *Business Architecture*. The piece about Purpose of an IT Architect at ../blog/posts/Whatis.md) is based upon a myriad of conversations arising from this time.
 
 Academically I have a BSc in Computer Science, an MBA, and an MSC in Systems Thinking in Practice. However despite attending many courses, and passing exams, I am very much in favour of [praxis](https://en.wikipedia.org/wiki/Praxis_(process)) as part of my daily practice.
 

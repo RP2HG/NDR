@@ -275,7 +275,7 @@ features = [
 # a monospaced font used in code blocks.
 # ----------------------------------------------------------------------------
 [project.theme.font]
-text = "Merriweather"
+text = "Cardo"
 #code = "Jetbrains Mono"
 
 # ----------------------------------------------------------------------------
@@ -348,3 +348,4 @@ combine_header_slug = true
 [project.markdown_extensions.pymdownx.tasklist]
 custom_checkbox = true
 [project.markdown_extensions.pymdownx.tilde]
+[project.plugins.blog]
